@@ -1,0 +1,2 @@
+# Requires: forgotten-duration
+# (Not available on PyPI)
